@@ -1,0 +1,5 @@
+/Users/lindanguyen/Projects/election/election/obj/Debug/netcoreapp3.1/election.csproj.AssemblyReference.cache
+/Users/lindanguyen/Projects/election/election/obj/Debug/netcoreapp3.1/election.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindanguyen/Projects/election/election/obj/Debug/netcoreapp3.1/election.AssemblyInfoInputs.cache
+/Users/lindanguyen/Projects/election/election/obj/Debug/netcoreapp3.1/election.AssemblyInfo.cs
+/Users/lindanguyen/Projects/election/election/obj/Debug/netcoreapp3.1/election.csproj.CoreCompileInputs.cache

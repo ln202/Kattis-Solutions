@@ -1,0 +1,12 @@
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.AssemblyInfoInputs.cache
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.AssemblyInfo.cs
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.csproj.CoreCompileInputs.cache
+/Users/lindanguyen/Projects/election/election/bin/Release/netcoreapp3.1/election.deps.json
+/Users/lindanguyen/Projects/election/election/bin/Release/netcoreapp3.1/election.runtimeconfig.json
+/Users/lindanguyen/Projects/election/election/bin/Release/netcoreapp3.1/election.runtimeconfig.dev.json
+/Users/lindanguyen/Projects/election/election/bin/Release/netcoreapp3.1/election.dll
+/Users/lindanguyen/Projects/election/election/bin/Release/netcoreapp3.1/election.pdb
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.dll
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.pdb
+/Users/lindanguyen/Projects/election/election/obj/Release/netcoreapp3.1/election.genruntimeconfig.cache
